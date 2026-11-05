@@ -1,0 +1,8 @@
+
+PySide6
+pywin32
+Pillow
+pytesseract
+pygetwindow
+windows-capture
+pynput

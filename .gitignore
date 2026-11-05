@@ -1,0 +1,36 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# User data and configuration
+data/*
+!data/.gitkeep
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Temporary screenshots
+latest_capture.png
+debug_*.png
+
+# OS
+.DS_Store
+Thumbs.db
